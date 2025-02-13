@@ -46,7 +46,7 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jidendiran-coder&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jidendiran-coder&layout=compact&theme=radical)  
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jidendiran-coder&show_icons=true&theme=radical&count_private=true)  
 ---
 
 ## 🌟 Notable Projects  
